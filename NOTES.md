@@ -1,7 +1,7 @@
 # 🗒️ Project Notes – Excel Sales Dashboard (2018 - 2021)
 
 ## 🔧 How I Built It
-- I collected sales data from 2020 to 2022 (fictional or sample dataset).
+- I collected sales data from 2018 to 2021 (fictional or sample dataset).
 - Cleaned and structured the data in Excel for better readability.
 - Pivot Tables were used to summarize key metrics like sales, profit, and quantity.
 - Applied Slicers and Timeline filters to allow interactive filtering.
