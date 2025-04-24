@@ -1,8 +1,8 @@
 # Excel-sales-dashboard
 A data visualization project analyzing product and region-wise sales trends.
-# 📊 Excel Sales Dashboard (2018 - 2022)
+# 📊 Excel Sales Dashboard (2018 - 2021)
 
-This is a beginner-level data analysis and visualization project built using Microsoft Excel. The dashboard visualizes historical sales data from 2018 to 2022, highlighting trends in cost, sales, and profits across different product categories and order sources.
+This is a beginner-level data analysis and visualization project built using Microsoft Excel. The dashboard visualizes historical sales data from 2018 to 2021, highlighting trends in cost, sales, and profits across different product categories and order sources.
 
 ---
 
