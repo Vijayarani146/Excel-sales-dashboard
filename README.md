@@ -28,7 +28,7 @@ This is a beginner-level data analysis and visualization project built using Mic
 
 ## 📥 Files in This Repository
 - `1st-Excel Dashboard- Sales Analysis Visualizations.png` — Screenshot of the final Excel dashboard
-- `sales_data_2020_2022.xlsx` — Original data file used in the analysis
+- `sales_data_2018_2021.xlsx` — Original data file used in the analysis
 - `README.md` — This file
 
 ---
